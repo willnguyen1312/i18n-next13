@@ -1,3 +1,7 @@
+# Blog post
+
+https://dev.to/ajones_codes/the-ultimate-guide-to-internationalization-i18n-in-nextjs-13-ed0#:~:text=js%2013%20doesn't%20include,%2Drequests's%20Accept%2DLanguage%20header.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
